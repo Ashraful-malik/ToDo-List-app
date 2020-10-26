@@ -1,3 +1,3 @@
 # ToDo-List-app
- <img src="pic_trulli.jpg" alt="Italian Trulli">
- <h1>TODO</h1>
+ <img src="/home/ashraful/Desktop/ToDo List app/todo.png" alt="Italian Trulli">
+ 
